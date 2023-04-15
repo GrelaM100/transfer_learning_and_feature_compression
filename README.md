@@ -1,1 +1,11 @@
-# transfer_learning_and_feature_compression
+# Image Recognition of Plants and Plant Diseases with Transfer Learning and Feature Compression
+
+This repo contains notebooks used in "Image Recognition of Plants and Plant Diseases with Transfer Learning and Feature Compression"
+
+## Datasets
+
+TODO
+
+## Models
+
+TODO
